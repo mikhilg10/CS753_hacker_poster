@@ -1,3 +1,5 @@
+import cv2 
+import os
 
 RESULT_PATH = '/content/results'      # The path that the result images will be saved
 LOG_PATH = '/content/log.txt'         # The path for the working log file
